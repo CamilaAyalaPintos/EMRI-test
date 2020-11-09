@@ -20,4 +20,4 @@ https://github.com/mitchac/ansible-nectar
 
 ## Step 5
 
-[Terminate-analysis.md]
+[Terminate-analysis.md](Terminate-analysis.md)
