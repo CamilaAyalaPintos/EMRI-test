@@ -8,7 +8,8 @@ https://github.com/mitchac/ansible-nectar
 
 ## Step 2
 
-[Installing-software.md](Installing-software.md)
+Configure cloud computer per the instructions and code in the following repo
+https://github.com/mitchac/ansible-nextflow-cloud
 
 ## Step 3
 
